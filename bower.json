@@ -1,0 +1,7 @@
+{
+    "name": "uint8-clamped-array",
+    "version": "0.0.1",
+    "main": [
+        "uint8clampedarray.js"
+    ]
+}
